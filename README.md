@@ -7,8 +7,8 @@
 # Цикломатска комплексност #
 Цикломатската комплексност е 8, таа може да се пресмета преку предикатните јазли (3.2, 7, 8, 15, 16, 19, 25) + 1, односно 7+1=8, или преку формулата E-N+2=30-24+2=6+2=8, или преку бројот на регионите, 8.
 
-#Multiple-condition statement#
+# Multiple-condition statement #
 
-#Every Branch statement#
-
+# Every Branch statement #
+![every-branch](https://user-images.githubusercontent.com/80795984/119897403-a4e1b680-bf40-11eb-881c-57b7c8c6c0f0.png)
 
